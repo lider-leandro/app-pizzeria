@@ -1,0 +1,14 @@
+.fondofooter{
+  display: flex;
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+    border-top: 1px solid rgb(158, 157, 157);
+  }
+  .menu{
+    background-color: white;
+    border: 1px solid white;
+    height: 50px;
+    width: 50px;
+    margin: 10px 6px 0px 40px;
+  }

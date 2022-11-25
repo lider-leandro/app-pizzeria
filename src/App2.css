@@ -1,0 +1,54 @@
+.fondoperfil {
+  display: flex;
+  margin: 35px;
+}
+.letras {
+  margin: 0px 67px 10px 19px;
+  font-size: 16px;
+}
+.fondobody {
+  margin: 30px 30px;
+}
+.fondopromo {
+  display: flex;
+  height: 85px;
+  margin-top: 60px;
+  padding: 15px;
+  border-radius: 30px;
+  background-color: #f8f3f3;
+  color: #fa1515;
+  box-shadow: 0px 5px #cdd7d1;
+}
+.letrapromo {
+  margin: 3px 0px 0px 25px;
+  font-size: 19px;
+  justify-content: space-between;
+}
+.fondo-pizza{
+  margin-top: 40px;
+  height: 520px;
+  column-count: 2;
+  column-gap: 40px;
+}
+.row{
+  margin-top: 0px;
+  height: 160px;
+  width: 156px;
+  border-radius: 30px;
+  text-align: center;
+  font-size: 20px;
+  font-weight: 640;
+  background-color: white;
+  border: white;
+}
+.fondofooter{
+  display: flex;
+  border-top: 1px solid rgb(158, 157, 157);
+}
+.menu{
+  background-color: white;
+  border: 1px solid white;
+  height: 50px;
+  width: 50px;
+  margin: 10px 6px 0px 40px;
+}
